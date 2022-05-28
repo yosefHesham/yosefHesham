@@ -40,9 +40,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   ---
   
   ### :fire: My Stats :
-  ![Most Active GitHub User Rank](https://<YOUR-ENDPOINT>.m.pipedream.net)
 
 ![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosefHesham&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yosefHesham&theme=radical&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefHesham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
