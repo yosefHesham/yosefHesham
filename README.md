@@ -1,17 +1,24 @@
-### Hi there 👋
+### Hi there, Iam Yousef 👋
 
-<!--
-**yosefHesham/yosefHesham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<iframe src="https://giphy.com/embed/HEURGne9Vj856oivkD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-HEURGne9Vj856oivkD">via GIPHY</a></p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: About Me :
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+
+- 🔭 I’m currently a student at Microverse.
+- 🌱 I’m currently learning:  React & Graph algorithms
+- 👯 I’m looking to collaborate on Web projects.
+- :zap: In my free time, I solve problems on Codeforces.
+- 💬 Ask me about Psycology, Books, History, Ping Pong,
+
+---
+
+### 📞 Contacts:
+
+<p align="left">
+<a href="https://twitter.com/Yousef45653478" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/yousef-hesham-b132ba179/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+
+  <a href="https://www.linkedin.com/in/yousef-hesham-b132ba179/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+
+</p>
