@@ -6,7 +6,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - 🔭 I’m currently a student at Microverse.
-- 🌱 I’m currently learning:  React - Redux & Algorithms
+- 🌱 I’m currently learning:  React - Redux & Storybook & Algorithms
 - 👯 I’m looking to collaborate on Web projects.
 - :zap: In my free time, I solve problems on Codeforces & Leetcode.
 - 💬 Ask me about: Psycology, Books, History, Ping Pong,
