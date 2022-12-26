@@ -9,7 +9,7 @@ I am a FrontEnd Software Engineer at Trufla Technology <img src="https://media.g
 - 🌱 I’m currently learning:  React - Redux ~ Design Systems & TypeScript & Algorithms & Storybook
 - 👯 I’m looking to collaborate on Web projects.
 - :zap: In my free time, I solve problems on Codeforces & Leetcode.
-- 💬 Ask me about: Psycology, Books, History, Ping Pong.
+- 💬 Ask me about: Psycology, Books, History, Ping Pong and what every you like.
 
 ---
 
