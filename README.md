@@ -3,7 +3,7 @@
 
 
 ### :man_technologist: About Me :
-I am a FrontEnd Software Engineer at Trufla Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a FrontEnd Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - 🔭 I’m currently a student at Microverse.
 - 🌱 I’m currently learning:  React - Redux ~ Design Systems & TypeScript & Algorithms & Storybook
